@@ -10,7 +10,7 @@ Aplikasi berbasis Streamlit untuk mendeteksi jenis biji kopi: **Arabika, Robusta
    - Statistik deteksi: jumlah dan persentase tiap jenis
 
 ## 🔍 Fitur
-- Deteksi otomatis 3 kelas kopi (arabika, liberika, robusta)
+- Deteksi otomatis 3 kelas kopi (Arabika, Liberika, Robusta)
 - Visualisasi bounding box
 - Statistik deteksi yang informatif
 - Model akan otomatis diunduh saat pertama kali dijalankan
